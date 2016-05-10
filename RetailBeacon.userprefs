@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="ReatailBeacon.IOS/ReatailBeacon.IOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReatailBeacon.IOS/AppDelegate.cs">
+    <Files>
+      <File FileName="SharedClassLib/Api.cs" Line="1" Column="1" />
+      <File FileName="SharedClassLib/Customer.cs" Line="1" Column="1" />
+      <File FileName="ReatailBeacon.IOS/Classes/BeaconCalculator.cs" Line="1" Column="1" />
+      <File FileName="ReatailBeacon.IOS/AppDelegate.cs" Line="9" Column="1" />
+      <File FileName="ReatailBeacon.IOS/Controllers/ViewController.cs" Line="1" Column="1" />
+      <File FileName="ReatailBeacon.IOS/Info.plist" />
+      <File FileName="ReatailBeacon.IOS/Controllers/StartController.cs" Line="1" Column="1" />
+      <File FileName="ReatailBeacon.IOS/Entitlements.plist" />
+      <File FileName="ReatailBeacon.IOS/Resources/Images.xcassets/AppIcons.appiconset/Contents.json" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RetailBeacon.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

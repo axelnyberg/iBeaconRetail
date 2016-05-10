@@ -1,0 +1,2 @@
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/SharedClassLib/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/SharedClassLib/bin/Release/Newtonsoft.Json.dll

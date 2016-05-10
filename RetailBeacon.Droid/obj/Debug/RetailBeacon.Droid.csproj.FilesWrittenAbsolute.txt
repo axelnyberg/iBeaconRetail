@@ -1,0 +1,144 @@
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/RetailBeacon.Droid.dll.mdb
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/RetailBeacon.Droid.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/com.erik.futurestore.apk
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/android/bin/com.erik.futurestore.apk
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/layout/main.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/layout/webviewactivitylayout.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/transbutton.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/sliderglass.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/values/strings.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/icon.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/images.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/man.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/man2.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/menu.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/trans.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/transuse.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/u49.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/u50.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/u53.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/u55.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/u68.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/wifi.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/afyra.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/aett.gif
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/bluetooth.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/fgjsgjdjd.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/drawable/future_store_logo.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/layout/fragmentinstoreinfo.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/layout/fragmentmyprofile.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/layout/fragmenthome.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/layout/dropdownitem.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/res/menu/bottommenu.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/R.cs.flag
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/com.erik.futurestore-Signed.apk
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/uploadflags.txt
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/RetailBeacon.Droid.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/obj/Debug/RetailBeacon.Droid.dll.mdb
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/Xamarin.Estimote.Android.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/Acr.Settings.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/Acr.Settings.Interface.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/Estimotes.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/Estimotes.Interface.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/System.Reactive.Core.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/System.Reactive.Interfaces.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/System.Reactive.Linq.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/RetailBeacon.Droid/bin/Debug/System.Reactive.PlatformServices.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/RetailBeacon.Droid.dll.mdb
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/RetailBeacon.Droid.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/com.erik.futurestore.apk
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/android/bin/com.erik.futurestore.apk
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/layout/main.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/layout/webviewactivitylayout.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/transbutton.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/sliderglass.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/values/strings.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/icon.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/images.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/man.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/man2.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/menu.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/trans.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/transuse.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/u49.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/u50.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/u53.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/u55.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/u68.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/wifi.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/afyra.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/aett.gif
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/bluetooth.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/fgjsgjdjd.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/drawable/future_store_logo.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/layout/fragmentinstoreinfo.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/layout/fragmentmyprofile.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/layout/fragmenthome.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/layout/dropdownitem.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/res/menu/bottommenu.xml
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/R.cs.flag
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/com.erik.futurestore-Signed.apk
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/uploadflags.txt
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/RetailBeacon.Droid.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Debug/RetailBeacon.Droid.dll.mdb
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/Xamarin.Estimote.Android.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/Acr.Settings.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/Acr.Settings.Interface.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/Estimotes.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/Estimotes.Interface.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/System.Reactive.Core.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/System.Reactive.Interfaces.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/System.Reactive.Linq.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/bin/Debug/System.Reactive.PlatformServices.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/RetailBeacon.Droid.dll.mdb
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/RetailBeacon.Droid.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/com.erik.futurestore.apk
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/android/bin/com.erik.futurestore.apk
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/layout/main.xml
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/layout/webviewactivitylayout.xml
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/transbutton.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/sliderglass.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/values/strings.xml
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/icon.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/images.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/man.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/man2.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/menu.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/trans.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/transuse.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/u49.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/u50.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/u53.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/u55.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/u68.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/wifi.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/afyra.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/aett.gif
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/bluetooth.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/fgjsgjdjd.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/drawable/future_store_logo.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/layout/fragmentinstoreinfo.xml
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/layout/fragmentmyprofile.xml
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/layout/fragmenthome.xml
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/layout/dropdownitem.xml
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/res/menu/bottommenu.xml
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/R.cs.flag
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/com.erik.futurestore-Signed.apk
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/uploadflags.txt
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/RetailBeacon.Droid.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/obj/Debug/RetailBeacon.Droid.dll.mdb
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/Xamarin.Estimote.Android.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/Acr.Settings.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/Acr.Settings.Interface.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/Estimotes.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/Estimotes.Interface.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/System.Reactive.Core.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/System.Reactive.Interfaces.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/System.Reactive.Linq.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/RetailBeacon.Droid/bin/Debug/System.Reactive.PlatformServices.dll

@@ -1,0 +1,11 @@
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/Xamarin.Estimote.iOS.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/System.Xml.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/System.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/ReatailBeaconIOS.exe
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/System.ServiceModel.Internals.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/mscorlib.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/mtouch-cache/Link/System.Core.dll

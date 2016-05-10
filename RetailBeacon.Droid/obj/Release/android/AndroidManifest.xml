@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.erik.futurestore" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.BLUETOOTH" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-feature android:name="android.hardware.bluetooth_le" android:required="false" />
+  <application android:label="RetailBeacon.Droid" android:icon="@drawable/future_store_logo" android:name="md53052d9c2a86af750b51b35ac708b39bc.BackgroundMonitor" android:allowBackup="true">
+    <service android:name="md53052d9c2a86af750b51b35ac708b39bc.BackgroundService">
+      <intent-filter>
+        <action android:name="com.xamarin.BackgroundService" />
+      </intent-filter>
+    </service>
+    <activity android:icon="@drawable/future_store_logo" android:label="Future Store" android:name="md53052d9c2a86af750b51b35ac708b39bc.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="WebViewActivity" android:name="md53052d9c2a86af750b51b35ac708b39bc.WebViewActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.erik.futurestore.mono.MonoRuntimeProvider.__mono_init__" />
+    <service android:name="com.estimote.sdk.service.BeaconService" android:exported="false" />
+    <service android:name="com.estimote.sdk.service.BeaconService" android:exported="false" />
+  </application>
+</manifest>

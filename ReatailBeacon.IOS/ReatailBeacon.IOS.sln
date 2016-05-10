@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReatailBeacon.IOS", "ReatailBeacon.IOS.csproj", "{78088629-D86E-4B39-B955-1EDFBBDDE919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78088629-D86E-4B39-B955-1EDFBBDDE919}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{78088629-D86E-4B39-B955-1EDFBBDDE919}.Debug|iPhone.Build.0 = Debug|iPhone
+		{78088629-D86E-4B39-B955-1EDFBBDDE919}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{78088629-D86E-4B39-B955-1EDFBBDDE919}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{78088629-D86E-4B39-B955-1EDFBBDDE919}.Release|iPhone.ActiveCfg = Release|iPhone
+		{78088629-D86E-4B39-B955-1EDFBBDDE919}.Release|iPhone.Build.0 = Release|iPhone
+		{78088629-D86E-4B39-B955-1EDFBBDDE919}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{78088629-D86E-4B39-B955-1EDFBBDDE919}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

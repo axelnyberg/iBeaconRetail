@@ -1,0 +1,11 @@
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Estimote.iOS.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/Mono.Dynamic.Interpreter.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Runtime.Serialization.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Xml.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/ReatailBeaconIOS.exe
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/System.ServiceModel.Internals.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Core.dll

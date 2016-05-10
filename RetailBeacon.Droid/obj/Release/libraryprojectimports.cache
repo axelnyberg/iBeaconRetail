@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Xamarin.Estimote.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Acr.Settings/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Estimotes/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Xamarin.Estimote.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Acr.Settings/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Estimotes/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Xamarin.Estimote.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Acr.Settings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/RetailBeacon.Droid/obj/Release/__library_projects__/Estimotes.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

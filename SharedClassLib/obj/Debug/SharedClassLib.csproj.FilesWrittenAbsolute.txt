@@ -1,0 +1,6 @@
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/SharedClassLib/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/SharedClassLib/bin/Debug/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/SharedClassLib/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/SharedClassLib/bin/Debug/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/SharedClassLib/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/SharedClassLib/bin/Debug/Newtonsoft.Json.dll

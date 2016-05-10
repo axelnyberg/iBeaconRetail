@@ -1,0 +1,132 @@
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/307-view-308.nib
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/348-view-349.nib
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/442-view-443.nib
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/560-view-561.nib
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/8-view-13.nib
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/UITabBarController-286.nib
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/partial-info.plist
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/asset-manifest.plist
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons29x29.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons29x29@2x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons29x29@3x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons40x40@2x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons40x40@3x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons60x60@2x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons60x60@3x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/future_store_logo.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u49.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u50.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u53.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/wifi.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u55.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/transuse.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/4454.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/images.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/fgjsgjdjd.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/man.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/bluetooth.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/menu.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/slider-glass.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/logo.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/logo-white.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/bin/iPhone/Debug/ReatailBeaconIOS.exe.mdb
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/bin/iPhone/Debug/ReatailBeaconIOS.exe
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ReatailBeaconIOS.exe
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/ReatailBeaconIOS.exe.mdb
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/bin/iPhone/Debug/Xamarin.Estimote.iOS.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/bin/iPhone/Debug/Xamarin.Insights.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/bin/iPhone/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/home.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/partial-info.plist
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/asset-manifest.plist
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons29x29.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons29x29@2x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons29x29@3x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons40x40@2x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons40x40@3x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons60x60@2x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone7.2-9.3.1/actool/bundle/AppIcons60x60@3x.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/future_store_logo.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u49.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u50.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u53.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/wifi.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u55.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/transuse.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/4454.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/images.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/fgjsgjdjd.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/man.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/bluetooth.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/menu.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/slider-glass.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/logo.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/logo-white.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/home.png
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/bin/iPhone/Debug/Xamarin.Estimote.iOS.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/bin/iPhone/Debug/Xamarin.Insights.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/bin/iPhone/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/bin/iPhone/Debug/ReatailBeaconIOS.exe.mdb
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/bin/iPhone/Debug/ReatailBeaconIOS.exe
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/ReatailBeaconIOS.exe
+/Users/axelnyberg/Documents/RunningProjects/ibeaconexjobb/RetailBeacon copy/ReatailBeacon.IOS/obj/iPhone/Debug/ReatailBeaconIOS.exe.mdb
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/future_store_logo.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u49.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u50.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u53.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/wifi.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/u55.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/transuse.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/4454.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/images.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/fgjsgjdjd.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/man.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/bluetooth.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/menu.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/slider-glass.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/logo.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/logo-white.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/home.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/optimized/
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/bin/iPhone/Debug/ReatailBeaconIOS.exe.mdb
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/bin/iPhone/Debug/ReatailBeaconIOS.exe
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ReatailBeaconIOS.exe
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ReatailBeaconIOS.exe.mdb
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/bin/iPhone/Debug/Xamarin.Estimote.iOS.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/bin/iPhone/Debug/Xamarin.Insights.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/bin/iPhone/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/307-view-308.nib
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/348-view-349.nib
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/442-view-443.nib
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/560-view-561.nib
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/8-view-13.nib
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/Main.storyboardc/UITabBarController-286.nib
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/partial-info.plist
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/asset-manifest.plist
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/bundle/AppIcons29x29.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/bundle/AppIcons29x29@2x.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/bundle/AppIcons29x29@3x.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/bundle/AppIcons40x40@2x.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/bundle/AppIcons40x40@3x.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/bundle/AppIcons60x60@2x.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/build-iphone8.4-9.3.1/actool/bundle/AppIcons60x60@3x.png
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/axelnyberg/Documents/RunningProjects/iBeaconRetail/ReatailBeacon.IOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
